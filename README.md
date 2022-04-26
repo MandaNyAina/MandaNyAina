@@ -75,7 +75,7 @@
             <a href="https://www.primefaces.org/primereact">PrimeReact</a>, 
             <a href="https://www.primefaces.org/primeflex">PrimeFlex</a>, 
             <a href="https://www.npmjs.com/package/react-toastify">ReactToastify</a>. 
-            La structure de dossier est très facile à adapter et facilite l'intégration de la page et de la fonctionnalité (clean code approch).
+            La structure de dossier est très facile à adapter et facilite l'intégration de la page et de la fonctionnalité (clean code approch). Installation et déploiement facile (sous Docker) 😄
         </li>
         <li>
             <b><a href="https://github.com/MandaNyAina/Admin-angular-template">Template Admin pour Angular</a></b> : template Admin Angular très puissant et complet ⚡. 
