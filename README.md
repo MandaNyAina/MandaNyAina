@@ -62,7 +62,7 @@
             Aide 💡 et propose une solution digitale adéquate par rapport à l'activité de l'entreprise.
         </li>
         <li>
-            Conception et analyse de la solution, conception de l'architecture technique adaptée pour la solution, et étude avec mise en place de la base de données.
+            Analyse et onception de la solution, de l'architecture technique, et étude avec mise en place de la base de données.
         </li>
     </ul>
     <h2>Mes projets perso : </h2>
@@ -75,7 +75,7 @@
             <a href="https://www.primefaces.org/primereact">PrimeReact</a>, 
             <a href="https://www.primefaces.org/primeflex">PrimeFlex</a>, 
             <a href="https://www.npmjs.com/package/react-toastify">ReactToastify</a>. 
-            La structure de dossier est très facile à adapter et facilite l'intégration de la page et de la fonctionnalité (clean code approch). Installation et déploiement facile (sous Docker) 😄
+            La structure de dossier est très facile à comprendre et facilite l'intégration des fonctionnalité (clean code approch). Installation et déploiement facile (sous Docker) 😄
         </li>
         <li>
             <b><a href="https://github.com/MandaNyAina/Admin-angular-template">Template Admin pour Angular</a></b> : template Admin Angular très puissant et complet ⚡. 
