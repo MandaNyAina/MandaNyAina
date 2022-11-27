@@ -71,7 +71,7 @@
             <b><a href="https://github.com/MandaNyAina/mphp">MPHP</a> : </b> un framework orienté objet sous PHP, strucutre en MVC facile à comprendre (clean code approch). Un framework très léger et performant ⚡ pour créer une application web souple. Taille du squelette est juste 28.4Mo 🤔, avec installation et déploiement facile (sous Docker) 😄. Son architecture permet au développement d'applications en micro-service.
         </li>
         <li>
-            <b><a href="https://github.com/MandaNyAina/reactts-starter">Boilerplate ReactTS</a></b> : un code base React sous Typescript et feuille de style SCSS pour démarrer une application React rapidement 😎, avec les libriaires UI préinstallée comme : 
+            <b><a href="https://github.com/MandaNyAina/reactts-starter">ReactTS starter</a></b> : un code base React sous Typescript et feuille de style SCSS pour démarrer une application React rapidement 😎, avec les libriaires UI préinstallée comme : 
             <a href="https://www.primefaces.org/primereact">PrimeReact</a>, 
             <a href="https://www.primefaces.org/primeflex">PrimeFlex</a>, 
             <a href="https://www.npmjs.com/package/react-toastify">ReactToastify</a>. 
