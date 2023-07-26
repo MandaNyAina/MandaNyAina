@@ -19,7 +19,7 @@
 <hr/>
 <div>
     <h2>A propos de moi : </h2>
-    <p style="font-size:16px">Je suis Manda Ny Aina, un développeur Fullstack depuis +3 ans, et passionné par l'informatique et le monde digital </p>
+    <p style="font-size:16px">Je suis Manda Ny Aina, un développeur Fullstack depuis +5 ans, et passionné par l'informatique et le monde digital </p>
     <p style="border-bottom: 1px solid;width: 71px">Mes Skills :</p>
     <ul>
         <li>Développeur en 
@@ -30,6 +30,7 @@
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Manda TS Badge" width="115"/> 
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Manda PHP Badge" width="65"/> 
             <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Manda Python Badge" width="85"/>
+            <img src="https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white" alt="Manda Go Badge" width="85"/>
         </li>
         <li>
             Utilise les frameworks / lirairies populaires et performants comme 
