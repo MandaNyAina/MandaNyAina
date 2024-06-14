@@ -91,10 +91,14 @@
         </li>
     </ul>
     <h2>More info : </h2>
-    Please do not hesitate to contact me by :
-    <ul>
-        <li>Email: andrianaivomanda00@gmail.com</li>
-        <li>WhatsApp: +261 34 09 084 00</li>
-        <li>Skype: live:.cid.a251dd23b42d1a57</li>
-    </ul>
+    <b>Feel free to reach out to me :</b>
+    <p>
+        📧 **Email**: [andrianaivomanda00@gmail.com](mailto:andrianaivomanda00@gmail.com)  
+    </p>
+    <p>
+        📱 **WhatsApp**: [+261 34 09 084 00](https://wa.me/261340908400)  
+    </p>
+    <p>
+         📞 **Skype**: [live:.cid.a251dd23b42d1a57](skype:live:.cid.a251dd23b42d1a57)
+    </p>
 </div>
