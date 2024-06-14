@@ -70,14 +70,14 @@
     <h2>A few personal projects : </h2>
     <ul>
         <li>
-            <b><a href="https://github.com/MandaNyAina/mphp">MPHP</a> : </b> an object-oriented PHP framework, easy-to-understand MVC structure (clean code approach). A very lightweight, high-performance framework ⚡ for creating a flexible web application. Skeleton size is just 28.4MB 🤔, with easy installation and deployment (under Docker) 😄. Its architecture enables micro-service application development.
+            <b><a href="https://github.com/MandaNyAina/mphp">MPHP</a> : </b> Our PHP framework 🚀 leverages object-oriented principles and a clear Model-View-Controller (MVC) architecture 🧩 to ensure clean, maintainable code. It's exceptionally lightweight 🌟, with a footprint of just 28.4MB, offering high performance ⚡ for developing flexible web applications. The framework’s streamlined design facilitates rapid installation and deployment 🚀, especially under Docker environments 🐳. Its robust architecture supports the development of microservice-based applications 🏗️, making it an ideal choice for scalable and efficient projects.
         </li>
         <li>
-            <b><a href="https://www.npmjs.com/package/@mandanyaina/reactts-starter" target="_blank">ReactTS starter</a></b> : React code base in Typescript and SCSS stylesheet to start a React application quickly 😎, with preinstalled UI libraries like :
-            <a href="https://www.primefaces.org/primereact">PrimeReact</a>, 
-            <a href="https://www.primefaces.org/primeflex">PrimeFlex</a>, 
-            <a href="https://www.npmjs.com/package/react-toastify">ReactToastify</a>. 
-            The folder structure is easy to understand and facilitates the integration of functionality (clean code approach). Easy installation and deployment (under Docker) 😄
+            <b><a href="https://www.npmjs.com/package/@mandanyaina/reactts-starter" target="_blank">ReactTS starter</a></b> : Our React codebase 📦 is built with TypeScript for type safety and SCSS for robust styling, providing a swift start for React applications 🚀. It comes pre-installed with essential UI libraries like 
+             <a href="https://www.primefaces.org/primereact">PrimeReact</a> 🎨, 
+             <a href="https://www.primefaces.org/primeflex">PrimeFlex</a> 📏, and 
+             <a href="https://www.npmjs.com/package/react-toastify">ReactToastify</a> 🔔. 
+            The intuitive folder structure makes integrating functionality straightforward 🧩, adhering to clean code principles 🛠️. Deployment is a breeze with easy installation, especially in Docker environments 🐳😄.
         </li>
         <li>
             <b><a href="https://github.com/MandaNyAina/Admin-angular-template">Template Admin pour Angular</a></b> : very powerful and complete Angular Admin template ⚡. 
