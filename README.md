@@ -92,13 +92,9 @@
     </ul>
     <h2>More info : </h2>
     <b>Feel free to reach out to me :</b>
-    <p>
-        📧 **Email**: [andrianaivomanda00@gmail.com](mailto:andrianaivomanda00@gmail.com)  
-    </p>
-    <p>
-        📱 **WhatsApp**: [+261 34 09 084 00](https://wa.me/261340908400)  
-    </p>
-    <p>
-         📞 **Skype**: [live:.cid.a251dd23b42d1a57](skype:live:.cid.a251dd23b42d1a57)
-    </p>
+    <ul>
+        <li> 📧 Email : <a href="mailto:andrianaivomanda00@gmail.com">andrianaivomanda00@gmail.com</a> </li>
+        <li> 📱 WhatsApp : <a href="https://wa.me/261340908400">+261 34 09 084 00</a> </li>
+        <li> 📞 Skype : live:.cid.a251dd23b42d1a57 </li>
+    </ul>
 </div>
