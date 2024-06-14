@@ -19,7 +19,7 @@
 <hr/>
 <div>
     <h2>About myself: </h2>
-    <p style="font-size:16px">I'm Manda Ny Aina, a Fullstack developer with +5 years of professional experience, and I'm passionate about IT and the digital world. </p>
+    <p style="font-size:16px">I'm Manda Ny Aina, a Fullstack Developer with over 5 years of professional experience. My passion for technology and the digital world drives my commitment to delivering high-quality solutions. </p>
     <p style="border-bottom: 1px solid;width: 71px">My Skills :</p>
     <ul>
         <li>Tech <br />
